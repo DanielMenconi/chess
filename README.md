@@ -15,22 +15,12 @@ The program provides a simple interface where the user can navigate through diff
 ## Screenshots
 
 ### 1. Main Screen
-![Main Screen](img/Screenshot%202025-09-27%20164203.png)
+![Main Screen](img/Screenshot%202025-09-20%20164203.png)
 
 ### 2. Theme Selection
-![Theme Selection](img/Screenshot%202025-09-27%20164215.png)
+![Theme Selection](img/Screenshot%202025-09-20%20164215.png)
 
 ### 3. Game Screen
-![Game Screen](img/Screenshot%202025-09-27%20164233.png)
+![Game Screen](img/Screenshot%202025-09-20%20164233.png)
 
----
 
-## Example Code
-
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Welcome to the Chess Project!");
-        // TODO: launch GUI
-    }
-}
